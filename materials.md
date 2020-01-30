@@ -30,14 +30,14 @@ Wind Touch, el título tiene una relación a que según la dirección y velocida
 # Espacio:
 Es exterior, naturaleza: campo o montaña
 # Materiales:
-# Naturales:
+Naturales:
 Viento
 Madera
 Vegatación (platas y árboles)
 Conchas
 Piedras
 Piñas 
-# Artificiales:
+Artificiales:
 Pepel de aluminio
 Motores
 Ladrillos
