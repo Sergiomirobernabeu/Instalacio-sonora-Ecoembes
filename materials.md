@@ -1,7 +1,7 @@
 # 1 pràctica. Anàlisis de materials
-## Parellees
+## Parelles
 
-##Grup
+## Grup
 
-##Clase
+## Clase
 
