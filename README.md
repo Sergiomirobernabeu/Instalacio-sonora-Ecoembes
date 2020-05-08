@@ -10,6 +10,5 @@
 ### 5 Muntage i documentació 
 [Memoria](ecoembes_aina-y-sergio.pdf)
 ### 5 Vídeo 
-[Video demostratiu](video_demostrativo_aina_y_ sergio.mp4)
 
 
